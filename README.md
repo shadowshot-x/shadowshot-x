@@ -1,6 +1,6 @@
 # Welcome to my profile
 
-Building Solutions that add Value to everyday life | Intuit Intern'22 | Incoming SCE @Google
+Building Solutions that add Value to everyday life | SCE @Google | Ex Intuit Intern'22 | 
 
 ## Hi Ujjwal, What are you upto?
 Glad you asked!
@@ -23,6 +23,5 @@ Glad you asked!
 [Research] - Deep Learning, Machine Learning, Flask, GANs, NLP
 
 ## I want to contact you!
-Email - ujjwal26599@gmail.com
 
 Linkedin - https://www.linkedin.com/in/ujjwal-sharma-b1066414b/
