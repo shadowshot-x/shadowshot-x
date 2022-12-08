@@ -4,6 +4,7 @@ Building Solutions that add Value to everyday life | SCE @Google | Ex Intuit Int
 
 ## Hi Ujjwal, What are you upto?
 Glad you asked!
+
 0. Building for Google!
 1. I am constantly testing my development abilities and building awesome apps
 2. I am ramping my Golang skills and Contributing my knowledge to the Community by writing Blogs on Medium and various Writer Programs (https://mattermost.com/blog/author/ujjwal-sharma/) (https://medium.com/@ujjwal26599).
