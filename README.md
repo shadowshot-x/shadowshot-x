@@ -1,29 +1,40 @@
-# Welcome to my profile
+# Crafting Solutions that Enhance Daily Life
 
-Building Solutions that add Value to everyday life | SCE @Google | Ex Intuit Intern'22 | 
+Cloud Engineer @ Google | Ex Intuit'22
 
-## Hi Ujjwal, What are you upto?
-Glad you asked!
+Passionate about Building for Community and Continuously Learning
 
-0. Building for Google!
-1. I am constantly testing my development abilities and building awesome apps
-2. I am ramping my Golang skills and Contributing my knowledge to the Community by writing Blogs on Medium and various Writer Programs (https://mattermost.com/blog/author/ujjwal-sharma/) (https://medium.com/@ujjwal26599).
-3. I contribute to Open Source Projects. Some of the Notable ones :- [MatterMost Server](https://github.com/mattermost/mattermost-server/pulls?q=is%3Apr+author%3Ashadowshot-x), [MatterMost Playbooks Plugin](https://github.com/mattermost/mattermost-plugin-playbooks/pulls?q=is%3Apr+author%3Ashadowshot-x+), [Awesome Appwrite](https://github.com/appwrite/awesome-appwrite/pull/97)(Blog Contribution).
-4. Learning as much as I can about Deep Learning.(Completed my research on Image Manipulation using GANs)
-5. Ramping up my Coding using Leetcode. (I am not a competitive coder but I would be lying if I told you that I do not enjoy coding)
-6. Looking for Opportunities. (Isnt Everyone!)
-7. BTech + Mtech in Information Technology from IIIT Gwalior.
+# What I'm Up To:
 
-## What Tech Stack are you familiar with?
+**Community Builder**: Actively engaged in developing and contributing to open-source projects, including Devlibrary, LinearB, GCP, MatterMost etc.
 
-[Fav. Tools] - Golang, Kubernetes, GCP ,AWS, Docker, Travis CI, Terraform
+**Golang Enthusiast**: Sharpening my Golang expertise and sharing knowledge through insightful blogs on Medium and various writer programs.
 
-[Frontend] - JavaScript, React, jQuery, CSS
+**Coding**: Enhancing my coding skills through LeetCode challenges, driven by a genuine passion for the craft.
 
-[Backend] - Node, Django(Ongoing)
+**Continuous Learner**: Eager to expand my knowledge and skills across various domains, including Kubernetes, GCP, AWS, Docker, Travis CI, Terraform, JavaScript, React, jQuery, CSS, Node, Django, machine learning, Flask, NLP, and more.
 
-[Research] - Deep Learning, Machine Learning, Flask, GANs, NLP
+**Deep Learning Explorer**: Delving into the fascinating world of deep learning, with a completed research project on image manipulation using GANs.
 
-## I want to contact you!
+# Tech Stack Expertise:
 
-Linkedin - https://www.linkedin.com/in/ujjwal-sharma-b1066414b/
+**Favored Tools**: GCP, Golang, Kubernetes, AWS, Docker, Travis CI, Terraform, Python
+
+**Frontend**: JavaScript, React, jQuery, CSS
+
+**Backend**: Node, Django, Golang
+
+**Research**: Deep Learning, Machine Learning, Flask, GANs, NLP
+
+**Education**: BTech + MTech in Information Technology: IIIT Gwalior
+
+Always open to exploring new opportunities that align with my passion for building impactful solutions and contributing to the tech community.
+
+# I want to Contact You
+Linkedin - https://www.linkedin.com/in/ujjwal-sharma-b1066414b/ 
+
+# Project Showcase
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowshot-x&repo=micro-product-go)](https://github.com/shadowshot-x/micro-product-go)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowshot-x&repo=go-cli-jsonOps)](https://github.com/shadowshot-x/go-cli-jsonOps)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowshot-x&repo=galaxy-vendetta)](https://github.com/shadowshot-x/galaxy-vendetta)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowshot-x&repo=ActuatorBuf-grpc)](https://github.com/shadowshot-x/ActuatorBuf-grpc)
