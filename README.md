@@ -1,6 +1,6 @@
 # Crafting Solutions that Enhance Daily Life
 
-Cloud Engineer @ Google | Ex Intuit'22
+SDE2 @ Intuit| Cloud Engineer @ Google 
 
 Passionate about Building for Community and Continuously Learning
 
