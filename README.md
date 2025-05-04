@@ -1,6 +1,6 @@
 # Crafting Solutions that Enhance Daily Life
 
-SDE2 @ Intuit| Cloud Engineer @ Google 
+Senior Software Engineer @ Intuit| Cloud Engineer @ Google 
 
 Passionate about Building for Community and Continuously Learning
 
